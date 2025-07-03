@@ -31,3 +31,4 @@ export const LocalesProvider = ({ children }) => {
     </LocalesContext.Provider>
   );
 };
+// Usage in your app

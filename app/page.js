@@ -25,3 +25,4 @@ export default function Home() {
     </Box>
   );
 }
+// Usage in your app
