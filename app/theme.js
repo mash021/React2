@@ -17,3 +17,4 @@ export const darkTheme = createTheme({
     },
   },
 });
+// Usage in your app
